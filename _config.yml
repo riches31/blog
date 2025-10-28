@@ -1,0 +1,43 @@
+# Site settings
+title: My Blog
+description: A Jekyll blog powered by GitHub Pages
+author: Your Name
+email: your.email@example.com
+
+# Build settings
+markdown: kramdown
+remote_theme: just-the-docs/just-the-docs
+
+# Just the Docs theme configuration
+search_enabled: true
+heading_anchors: true
+aux_links:
+  "View on GitHub":
+    - "//github.com/your-username/Blog"
+
+# Footer content
+footer_content: "Copyright &copy; 2025. Powered by Jekyll and Just the Docs."
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# GitHub Pages URL configuration
+baseurl: "/Blog" # Change this to "" if using custom domain or username.github.io
+url: "https://your-username.github.io" # Change to your GitHub username
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - README.md
+  - LICENSE
+  - CLAUDE.md
+  - todo.md
