@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to My Blog"
 date: 2025-10-28 12:00:00 +0000
 categories: announcement
-author: Your Name
+author: Peter Riches
 ---
 
 # Welcome to My Blog!
