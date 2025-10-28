@@ -102,8 +102,8 @@ const feedConfig = {
     'https://feeds.arstechnica.com/arstechnica/index'
   ],
   cve: [
-    'https://cvefeed.io/rssfeed-critical.xml',
-    'https://www.cisa.gov/cybersecurity-advisories/all.xml'
+    'https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml',
+    'https://www.bleepingcomputer.com/feed/'
   ],
   devops: [
     'https://devops.com/feed/',
