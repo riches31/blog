@@ -29,8 +29,8 @@ This blog is built using:
 ## Get In Touch
 
 Feel free to reach out or contribute:
-- GitHub: [your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- GitHub: [Peter Riches](https://github.com/riches31)
+- Email: 2wired.github@manyme.com
 
 ## License
 
