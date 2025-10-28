@@ -14,6 +14,8 @@ heading_anchors: true
 aux_links:
   "View on GitHub":
     - "//github.com/riches31/blog"
+  "Security Tools":
+    - "https://riches31.github.io/Sec-Tools"
 
 # Footer content
 footer_content: "Copyright &copy; 2025. Powered by Jekyll and Just the Docs."
